@@ -18,9 +18,9 @@ Los platillos favoritos se guardan en Local Storage y pueden consultarse en una 
   - Los favoritos se almacenan en **Local Storage**.  
   - Página especial para ver todas las recetas favoritas.  
   - Opción para eliminar recetas de favoritos.  
-- 🎨 **Interfaz optimizada** con **Bootstrap y CSS personalizado**.  
+- **Interfaz optimizada** con **Bootstrap y CSS personalizado**.  
 
-## 🛠️ Tecnologías Utilizadas  
+## Tecnologías Utilizadas  
 - **HTML5**  
 - **Bootstrap** (estilos y modales)  
 - **CSS personalizado**  
