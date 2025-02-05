@@ -1,0 +1,22 @@
+body{
+    background: #eeeeee;
+}
+
+.btn{
+    background: #333333;
+    color: #fff;
+}
+.btn:hover{
+    background: #fff;
+    color: #696969;
+    border: 1px solid #696969;
+}
+
+.card{
+    height: 95%; 
+}
+
+.card-title{
+    height: 65px;
+    overflow: hidden;
+}
